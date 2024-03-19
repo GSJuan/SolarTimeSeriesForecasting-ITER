@@ -73,11 +73,3 @@ Repo containing some of the code scripts and notebooks I implemented during my i
 ## License
 
 - This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-- For questions or assistance, please open an issue in the repository, and a maintainer will respond accordingly.
-
----
-
-This README provides a general overview and setup instructions for the repository. It is advised to refer to individual scripts and notebooks for more detailed documentation and comments on specific sections of the code.
